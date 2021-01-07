@@ -1,1 +1,2 @@
-# rectangle1234
+# collisionAlgorithm
+Algorithm to detect collision between two objects
